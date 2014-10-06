@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Imperial Aramaic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5500,
+  "fonts": [
+    {
+      "name": "Noto Sans Imperial Aramaic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansImperialAramaic-Regular.ttf",
+      "postScriptName": "NotoSansImperialAramaic",
+      "fullName": "Noto Sans Imperial Aramaic",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
